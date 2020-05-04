@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0381ad70.chunk.css",
-    "main.js": "/static/js/main.f3ff14b6.chunk.js",
-    "main.js.map": "/static/js/main.f3ff14b6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6d71796.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6d71796.js.map",
-    "static/js/2.29abf64d.chunk.js": "/static/js/2.29abf64d.chunk.js",
-    "static/js/2.29abf64d.chunk.js.map": "/static/js/2.29abf64d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf86497bd09d00fe0979d3855225af21.js": "/precache-manifest.bf86497bd09d00fe0979d3855225af21.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0381ad70.chunk.css.map": "/static/css/main.0381ad70.chunk.css.map",
-    "static/js/2.29abf64d.chunk.js.LICENSE.txt": "/static/js/2.29abf64d.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/static/media/image.d7265326.png"
+    "main.css": "/covid19-statistics/static/css/main.0381ad70.chunk.css",
+    "main.js": "/covid19-statistics/static/js/main.f3ff14b6.chunk.js",
+    "main.js.map": "/covid19-statistics/static/js/main.f3ff14b6.chunk.js.map",
+    "runtime-main.js": "/covid19-statistics/static/js/runtime-main.bad0ba24.js",
+    "runtime-main.js.map": "/covid19-statistics/static/js/runtime-main.bad0ba24.js.map",
+    "static/js/2.d23f48fc.chunk.js": "/covid19-statistics/static/js/2.d23f48fc.chunk.js",
+    "static/js/2.d23f48fc.chunk.js.map": "/covid19-statistics/static/js/2.d23f48fc.chunk.js.map",
+    "index.html": "/covid19-statistics/index.html",
+    "precache-manifest.851d8ef2c0a94a379f1707fa0b64bb64.js": "/covid19-statistics/precache-manifest.851d8ef2c0a94a379f1707fa0b64bb64.js",
+    "service-worker.js": "/covid19-statistics/service-worker.js",
+    "static/css/main.0381ad70.chunk.css.map": "/covid19-statistics/static/css/main.0381ad70.chunk.css.map",
+    "static/js/2.d23f48fc.chunk.js.LICENSE.txt": "/covid19-statistics/static/js/2.d23f48fc.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covid19-statistics/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6d71796.js",
-    "static/js/2.29abf64d.chunk.js",
+    "static/js/runtime-main.bad0ba24.js",
+    "static/js/2.d23f48fc.chunk.js",
     "static/css/main.0381ad70.chunk.css",
     "static/js/main.f3ff14b6.chunk.js"
   ]
